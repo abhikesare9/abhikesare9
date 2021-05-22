@@ -3,7 +3,17 @@
 -->
 
  ## Hi {𝚌𝚘𝚍𝚎𝚛𝚜}! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Abhishek 👨‍🎓
- <a href="http://abhikesare9.github.io/"><img src="https://github.com/abhikesare9/abhikesare999/blob/e836984219d29607768099678ee6c04f4f0c5667/coding-freak.gif" width="414" height="320" /></a>
+<div>
+ <p>
+  <img width="240" height="230" align='right' src="https://github.com/abhikesare9/abhikesare999/blob/e836984219d29607768099678ee6c04f4f0c5667/coding-freak.gif"> 
+</p>
+  
+
+
+## About Me ✍
+ 
+ I m <b> Abhishek Kesare</b>, a pursuing <b>Computer Science Engineer</b> Currently Head Technical Volunteer [<b>ARTH THE SCHOOL OF TECHNOLOGIES</b>](https://rightarth.com/) under the mentorship of [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/) sir.  As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
+
 
 I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor's Degree in Computer Science and Engineering.
 <br>
