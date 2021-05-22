@@ -19,7 +19,7 @@
  <br>
 
 ![](https://komarev.com/ghpvc/?username=abhikesare9) <br><br>
-
+</br>
 
 
  
@@ -31,6 +31,14 @@
 👨‍💻 Programming Languages: Python,C/C++,Kotlin,java,R .\
 💼 I’m currently working in [<b>LinuxWorld Pvt Ltd</b>](https://www.linuxworldindia.org/) as summer intern in <b>MLOPS</b>.\
 📫 How to reach me: Visit my Website : <a href="abhikesare9@gmail.com">Abhishek Kesare</a>
+
+### My Technologies
+<p align="center">
+ <img height="60" width="60" src="https://github.com/abhikesare9/abhikesare999/blob/b21049028d37f70f80f155afd8d12e00635bbf8d/technologies/devops.png" />
+ <img height="60" width="60" src="https://github.com/abhikesare9/abhikesare999/blob/b21049028d37f70f80f155afd8d12e00635bbf8d/technologies/mern.jpg" />
+ <img height="60" width="60" src="https://github.com/abhikesare9/abhikesare999/blob/b21049028d37f70f80f155afd8d12e00635bbf8d/technologies/ai.jpg" />
+ <img height="60" width="60" src="https://github.com/abhikesare9/abhikesare999/blob/6719f11282fec99a263e4bb34f27df335eb60c90/technologies/cloud.jpg" />
+ 
 
 ### Technical Skills
 
