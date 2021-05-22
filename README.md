@@ -83,7 +83,6 @@ but also gives you various benefits which can improve the quality of your life. 
 ##
 
 
-##
 
 
 ## 📝 My Technical Blog Posts
@@ -103,19 +102,16 @@ but also gives you various benefits which can improve the quality of your life. 
 [Lauching Webserver on Docker Container with Ansible ](https://abhikesare.medium.com/launching-webserver-on-container-with-ansible-5ec68e817dea)
 
 [Docker Setup for Web devlopment](https://abhikesare.medium.com/docker-setup-for-web-development-defeffd7f6d8)
+ 
+[Jenkins Case study](https://www.linkedin.com/pulse/industry-use-cases-jenkins-abhishek-kesare)
 
 
 </td><td valign="top" width="25%"> 
  
 ### [BigData]
 <!-- recent_releases starts -->
- [Creating hadoop cluser and making datanode storage dynamic through LVM](https://www.linkedin.com/pulse/hadoop-static-partition-lvm-amit-sharma/)
+ [Making hadoop Datanode elastic with python scripting](https://abhikesare.medium.com/hadoop-integration-with-lvm-e07f00f12e9c)
  
- [MLOPS]
- 
-[Covid Symptoms Tracker Project](https://www.linkedin.com/posts/amit-sharma-35439016a_mlops-machinelearning-ai-activity-6723638308745945088-xHex/)
- 
-[Covid Symptoms Tracker](https://github.com/users/amit17133129/projects/4/)
 </td><td valign="top" width="30%"> 
 
 ### [Machine Learning]
@@ -134,6 +130,8 @@ but also gives you various benefits which can improve the quality of your life. 
 [Create High avability architecture on AWS using CLI](https://abhikesare.medium.com/create-high-availability-setup-on-aws-using-cli-b12f0dbeb914) 
 
 [Website Deployment on AWS](https://abhikesare.medium.com/website-deployment-on-aws-dcd4feec4154)
+ 
+[openshift case-study](https://www.linkedin.com/pulse/openshift-now-abhishek-kesare)
 
 
 </td></tr></table> </b>
