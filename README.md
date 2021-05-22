@@ -149,6 +149,8 @@ but also gives you various benefits which can improve the quality of your life. 
  <img src="https://github-readme-stats.vercel.app/api?username=abhikesare9&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+919084369325) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
+
 
 ## Connect with me
 
