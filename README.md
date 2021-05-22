@@ -32,6 +32,17 @@
 💼 I’m currently working in [<b>LinuxWorld Pvt Ltd</b>](https://www.linuxworldindia.org/) as summer intern in <b>MLOPS</b>.\
 📫 How to reach me: Visit my Website : <a href="abhikesare9@gmail.com">Abhishek Kesare</a>
 
+
+ 
+ ## My Hobbies ✍
+
+<img align='left' src='https://github.com/abhikesare9/abhikesare999/blob/37db57b158adab5ff0259561f879ac5e29adaf8d/technologies/tenor.gif' width='200"'>
+ 
+Having a hobby is a <b>great</b><b>thing</b> for each and everyone because it not only entertains you,
+but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books. I have also started writing so that I could make my hobby as my profession and some of them are as follows.
+##
+
+
 ### My Technologies
 <p align="center">
  <img height="200" width="200" src="https://github.com/abhikesare9/abhikesare999/blob/b21049028d37f70f80f155afd8d12e00635bbf8d/technologies/devops.png" />
@@ -71,20 +82,11 @@
  [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
 
 
- 
- ## My Hobbies ✍
-
-<img align='left' src='https://github.com/abhikesare9/abhikesare999/blob/37db57b158adab5ff0259561f879ac5e29adaf8d/technologies/tenor.gif' width='200"'>
- 
-Having a hobby is a <b>great</b><b>thing</b> for each and everyone because it not only entertains you,
-but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books. I have also started writing so that I could make my hobby as my profession and some of them are as follows.
-##
 
 
 
 
-## 📝 My Technical Blog Posts
-## Updates 🤓
+## 📝 My Technical Blog Posts Updates 🤓
 <b>
 <table><tr><td valign="top" width="33%">
 
