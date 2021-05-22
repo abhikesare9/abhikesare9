@@ -139,12 +139,12 @@ but also gives you various benefits which can improve the quality of your life. 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=smv1999&row=2&column=3&margin-w=8&margin-h=8" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=abhikesare9&row=2&column=3&margin-w=8&margin-h=8" alt="trophies" />
 </p>
 
 
 <p align=center >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=smv1999" /> |
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhikesare9@gmail.com" /> |
 </p>
 
 <h3 align="center">
