@@ -34,10 +34,10 @@
 
 ### My Technologies
 <p align="center">
- <img height="100" width="100" src="https://github.com/abhikesare9/abhikesare999/blob/b21049028d37f70f80f155afd8d12e00635bbf8d/technologies/devops.png" />
- <img height="100" width="100" src="https://github.com/abhikesare9/abhikesare999/blob/b21049028d37f70f80f155afd8d12e00635bbf8d/technologies/mern.jpg" />
- <img height="100" width="100" src="https://github.com/abhikesare9/abhikesare999/blob/b21049028d37f70f80f155afd8d12e00635bbf8d/technologies/ai.jpg" />
- <img height="100" width="100" src="https://github.com/abhikesare9/abhikesare999/blob/6719f11282fec99a263e4bb34f27df335eb60c90/technologies/cloud.jpg" />
+ <img height="200" width="200" src="https://github.com/abhikesare9/abhikesare999/blob/b21049028d37f70f80f155afd8d12e00635bbf8d/technologies/devops.png" />
+ <img height="200" width="200" src="https://github.com/abhikesare9/abhikesare999/blob/b21049028d37f70f80f155afd8d12e00635bbf8d/technologies/mern.jpg" />
+ <img height="200" width="200" src="https://github.com/abhikesare9/abhikesare999/blob/b21049028d37f70f80f155afd8d12e00635bbf8d/technologies/ai.jpg" />
+ <img height="200" width="200" src="https://github.com/abhikesare9/abhikesare999/blob/6719f11282fec99a263e4bb34f27df335eb60c90/technologies/cloud.jpg" />
  
 
 ### Technical Skills
