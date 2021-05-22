@@ -20,11 +20,11 @@
 
 ![](https://komarev.com/ghpvc/?username=abhikesare9) <br><br>
 
-💻 Skilled in Python(Programming Language), Android Application Development (Native), Flutter, C/C++, Flask, Java and React .\
-📱 Experienced Android Developer with 10 apps successfully published on to the [Google Play Store](https://play.google.com/store/apps/developer?id=Programmers+Gateway).\
-⚙️ Filled with the potential of converting ideas into working products.\
-✔ Interested in the field of Artificial Intelligence and Data Science.\
-🔭 I’m currently working on a Flutter project and learning about Docker\
+💻 Skilled in Full-stack development as a MERN stack devloper and also having working expertise with flask framework .\
+♾️ DevOps Skills : Ansible,kubernetes,Terraform,jenkins,shell scripting, Docker, Devops on AWS, Git and Github,openshif.\
+⚙️ Artificial Intelligence skill: Machine learning, Deep learning, NLP, Reinforcement learning AI on AWS(kendra,sagemaker,lex,polly,textrack and many more).\
+👨‍💻 Programming Languages: Python,C/C++,Kotlin,java,R .\
+💼 I’m currently working in [<b>LinuxWorld Pvt Ltd</b>](https://www.linuxworldindia.org/) as summer intern in <b>MLOPS</b>.\
 📫 How to reach me: Visit my Website : <a href="http://vaidhyanathansm.netlify.app/">Vaidhyanathan S M</a>
 
 ### Technical Skills
