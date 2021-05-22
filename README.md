@@ -70,9 +70,7 @@
  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
  [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
 
-<p align=center>
- <img src="https://github-readme-stats.vercel.app/api?username=abhikesare9&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
+
  
  ## My Hobbies ✍
 
@@ -154,12 +152,16 @@ but also gives you various benefits which can improve the quality of your life. 
 </h3>
 
 
+<p align=center>
+ <img src="https://github-readme-stats.vercel.app/api?username=abhikesare9&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
+
+
 ## Connect with me
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https:www.linkedin.com/in/abhishek-kesare)
-[<img src ="https://img.shields.io/badge/Download-Resume-AA00FF.svg?&style=for-the-badge&logo=docusign&logoColor=white%22">](https://vaidhyanathansm.tech/Resume.pdf)
+[<img src ="https://img.shields.io/badge/Download-Resume-AA00FF.svg?&style=for-the-badge&logo=docusign&logoColor=white%22">]()
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://https://www.instagram.com/_abhi_24_6/)
-[<img src="https://img.shields.io/badge/twitter-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white%22" />](https://twitter.com/itssmv1999)
 
 
 
