@@ -5,7 +5,7 @@
  ## Hi {𝚌𝚘𝚍𝚎𝚛𝚜}! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Abhishek 👨‍🎓
 <div>
  <p>
-  <img width="240" height="230" align='right' src="https://github.com/abhikesare9/abhikesare999/blob/e836984219d29607768099678ee6c04f4f0c5667/coding-freak.gif"> 
+  <img width="340" height="330" align='left' src="https://github.com/abhikesare9/abhikesare999/blob/e836984219d29607768099678ee6c04f4f0c5667/coding-freak.gif"> 
 </p>
   
 
