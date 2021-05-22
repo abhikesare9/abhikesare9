@@ -156,9 +156,9 @@ but also gives you various benefits which can improve the quality of your life. 
 
 ## Connect with me
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/vaidhyanathansm/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https:www.linkedin.com/in/abhishek-kesare)
 [<img src ="https://img.shields.io/badge/Download-Resume-AA00FF.svg?&style=for-the-badge&logo=docusign&logoColor=white%22">](https://vaidhyanathansm.tech/Resume.pdf)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vaidhyanathan.sm/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://https://www.instagram.com/_abhi_24_6/)
 [<img src="https://img.shields.io/badge/twitter-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white%22" />](https://twitter.com/itssmv1999)
 
 
