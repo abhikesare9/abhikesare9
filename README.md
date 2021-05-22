@@ -3,6 +3,7 @@
 -->
 
  ## Hi {𝚌𝚘𝚍𝚎𝚛𝚜}! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Abhishek 👨‍🎓
+ <a href="http://abhikesare9.github.io/"><img src="https://github.com/abhikesare9/abhikesare999/blob/e836984219d29607768099678ee6c04f4f0c5667/coding-freak.gif" /></a>
 
 I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor's Degree in Computer Science and Engineering.
 <br>
