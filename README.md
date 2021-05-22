@@ -76,7 +76,7 @@
  
  ## My Hobbies ✍
 
-<img align='left' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
+<img align='left' src='https://github.com/abhikesare9/abhikesare999/blob/37db57b158adab5ff0259561f879ac5e29adaf8d/technologies/tenor.gif' width='200"'>
  
 Having a hobby is a <b>great</b><b>thing</b> for each and everyone because it not only entertains you,
 but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books. I have also started writing so that I could make my hobby as my profession and some of them are as follows.
