@@ -2,7 +2,7 @@
 **smv1999/smv1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
- <a href="https://github.com/abhikesare9/abhikesare999/blob/793916228104e4cfc3c756f056257ae89e2fca19/coding-freak.gif" /></a>
+ ## Hi {𝚌𝚘𝚍𝚎𝚛𝚜}! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Abhishek 👨‍🎓
 
 I am a student of Rajalakshmi Engineering College currently pursuing a Bachelor's Degree in Computer Science and Engineering.
 <br>
