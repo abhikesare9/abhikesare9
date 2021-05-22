@@ -102,6 +102,7 @@ but also gives you various benefits which can improve the quality of your life. 
 
 [Lauching Webserver on Docker Container with Ansible ](https://abhikesare.medium.com/launching-webserver-on-container-with-ansible-5ec68e817dea)
 
+[Docker Setup for Web devlopment](https://abhikesare.medium.com/docker-setup-for-web-development-defeffd7f6d8)
 
 
 </td><td valign="top" width="25%"> 
@@ -120,36 +121,20 @@ but also gives you various benefits which can improve the quality of your life. 
 ### [Machine Learning]
 <!-- blog starts -->
 
-[An Explaination to ANN](https://github.com/amit17133129/An-Explanation-To-Artificial-Neural-Network/blob/main/Churn_Modelling.ipynb)
+[Neural Networks Case study](https://www.linkedin.com/pulse/industry-use-cases-neural-networks-abhishek-kesare)
 
-[Machine-Learning-Prediction-Using-Different-Algorithms-in-linear-Classification](https://github.com/amit17133129/Machine-Learning-Prediction-Using-Different-Algorithms-in-linear-Classification/)
-[COVID-19-image-segmentation-on-chest-Xray-Using-MASK-RCNN.](https://www.linkedin.com/pulse/covid-19-image-segmentation-chest-xray-using-mask-rcnn-amit-sharma/)
-
-[Convolutional Neural Network ](https://www.linkedin.com/pulse/mlops-day-24-convolutional-neural-network-amit-sharma/)
-
-[Binary Classification](https://www.linkedin.com/pulse/mlops-day-20-binary-classification-amit-sharma/)
-
-[Gradient Descent](https://www.linkedin.com/pulse/mlops-day-11-gradient-descent-amit-sharma/)
-
-[Features Selection on Multiple Linear Regression](https://www.linkedin.com/pulse/mlops-day-7-features-selection-multiple-linear-amit-sharma/)
-
-[Computer Vision](https://www.linkedin.com/pulse/day-4-computer-vision-amit-sharma/)
-
-[Simple Linear Regression](https://www.linkedin.com/pulse/day-4-machine-learning-amit-sharma/)
-
-[COVID 19 image segmentation on chest Xray Using MASK RCNN](https://www.linkedin.com/posts/amit-sharma-35439016a_task6-worldrecordholder-mlops-activity-6689080600785252352-GMg8/)
+[Youtube Machine learning case study](https://www.linkedin.com/pulse/how-youtube-uses-machine-learning-ai-business-abhishek-kesare)
 
 </td><td valign="top" width="50%">
 
 ### [Cloud]
 <!-- tils starts -->
-[Creating-High-Availability-Architecture-with-AWS-CLI-CloudFront-S3-EBS](https://www.linkedin.com/pulse/creating-high-availability-architecture-aws-cli-s3-ebs-amit-sharma/)
+[Some basic activities in AWS](https://www.linkedin.com/pulse/some-basic-activities-inaws-abhishek-kesare)
 
-[Deploy the word-press application on K8S and AWS using Terraform](https://www.linkedin.com/pulse/hybrid-multi-cloud-task-6-deploy-word-press-k8s-aws-using-amit-sharma/) 
+[Create High avability architecture on AWS using CLI](https://abhikesare.medium.com/create-high-availability-setup-on-aws-using-cli-b12f0dbeb914) 
 
-[Using-EFS-instead-of-EBS-service-on-the-AWS-as-Create-launch-Application-](https://www.linkedin.com/feed/update/urn:li:activity:6720384729843146752/)
+[Website Deployment on AWS](https://abhikesare.medium.com/website-deployment-on-aws-dcd4feec4154)
 
-[Launching EC2 Instance on AWS Using Ansible](https://www.linkedin.com/feed/update/urn:li:activity:6720384622833860608/)
 
 </td></tr></table> </b>
 
@@ -177,10 +162,6 @@ but also gives you various benefits which can improve the quality of your life. 
 [<img src ="https://img.shields.io/badge/Download-Resume-AA00FF.svg?&style=for-the-badge&logo=docusign&logoColor=white%22">](https://vaidhyanathansm.tech/Resume.pdf)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vaidhyanathan.sm/)
 [<img src="https://img.shields.io/badge/twitter-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white%22" />](https://twitter.com/itssmv1999)
-
-## Check out my Apps here
-
-[<img src="https://img.shields.io/badge/google%20play-%230077B5.svg?&style=for-the-badge&logo=google-play&logoColor=white%22" />](https://play.google.com/store/apps/developer?id=Programmers+Gateway)
 
 
 
