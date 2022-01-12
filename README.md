@@ -87,56 +87,9 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 ## 📝 My Technical Blog Posts Updates 🤓
-<b>
-<table><tr><td valign="top" width="33%">
-
-### [DEVOPS]
-<!-- recent_releases starts -->
-
-[Automation of Kubernetes cluster using ansible](https://www.linkedin.com/posts/abhishek-kesare_kubernetes-cluster-automation-activity-6798593447839186944-IyqS)
-
-[Know more about Ansible](https://www.linkedin.com/posts/abhishek-kesare_know-more-about-ansible-activity-6790286269294370816-xGsr)
-
-[Automation of Hadoop Cluster](https://abhikesare.medium.com/automation-of-hadoop-cluster-863c085be547)
-
-[Lauching Webserver on Docker Container with Ansible ](https://abhikesare.medium.com/launching-webserver-on-container-with-ansible-5ec68e817dea)
-
-[Docker Setup for Web devlopment](https://abhikesare.medium.com/docker-setup-for-web-development-defeffd7f6d8)
- 
-[Jenkins Case study](https://www.linkedin.com/pulse/industry-use-cases-jenkins-abhishek-kesare)
-
-
-</td><td valign="top" width="25%"> 
- 
-### [BigData]
-<!-- recent_releases starts -->
- [Making hadoop Datanode elastic with python scripting](https://abhikesare.medium.com/hadoop-integration-with-lvm-e07f00f12e9c)
- 
-</td><td valign="top" width="30%"> 
-
-### [Machine Learning]
-<!-- blog starts -->
-
-[Neural Networks Case study](https://www.linkedin.com/pulse/industry-use-cases-neural-networks-abhishek-kesare)
-
-[Youtube Machine learning case study](https://www.linkedin.com/pulse/how-youtube-uses-machine-learning-ai-business-abhishek-kesare)
-
-</td><td valign="top" width="50%">
-
-### [Cloud]
-<!-- tils starts -->
-[Some basic activities in AWS](https://www.linkedin.com/pulse/some-basic-activities-inaws-abhishek-kesare)
-
-[Create High avability architecture on AWS using CLI](https://abhikesare.medium.com/create-high-availability-setup-on-aws-using-cli-b12f0dbeb914) 
-
-[Website Deployment on AWS](https://abhikesare.medium.com/website-deployment-on-aws-dcd4feec4154)
- 
-[openshift case-study](https://www.linkedin.com/pulse/openshift-now-abhishek-kesare)
-
-
-</td></tr></table> </b>
-
-<!--footer-->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhikesare/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhikesare/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhikesare/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhikesare/1" alt="Recent Article 1"> 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhikesare/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhikesare/2" alt="Recent Article 2"> 
 
 
 
