@@ -155,7 +155,7 @@ but also gives you various benefits which can improve the quality of your life. 
 ## Connect with me
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https:www.linkedin.com/in/abhishek-kesare)
-[<img src ="https://img.shields.io/badge/Download-Resume-AA00FF.svg?&style=for-the-badge&logo=docusign&logoColor=white%22">](https://abhikesare9.github.io/Abhishekkesareresume/)
+[<img src ="https://img.shields.io/badge/Download-Resume-AA00FF.svg?&style=for-the-badge&logo=docusign&logoColor=white%22">](https://www.linkedin.com/in/abhishek-kesare/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADAGpd4BLfVen4KReJZy5t4lqLnu94xk8sE,1635474680129)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BnTA8xI0WSv%2BGE4uAE5uVOA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://https://www.instagram.com/_abhi_24_6/)
 <a href="https://medium.com/@abhikesare" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 
