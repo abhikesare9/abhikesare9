@@ -104,7 +104,7 @@ but also gives you various benefits which can improve the quality of your life. 
 </p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+919022841846) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhikesare9)](https://github.com/abhikesare9/github-readme-stats)
+  
 
 
 ## Connect with me
