@@ -29,7 +29,6 @@
 ♾️ DevOps Skills : Ansible,kubernetes,Terraform,jenkins,shell scripting, Docker, Devops on AWS, Git and Github,openshift.\
 ⚙️ Artificial Intelligence skill: Machine learning, Deep learning, NLP, Reinforcement learning AI on AWS(kendra,sagemaker,lex,polly,textrack and many more).\
 👨‍💻 Programming Languages: Python,C/C++,Kotlin,java,R .\
-💼 I’m currently working in [<b>LinuxWorld Pvt Ltd</b>](https://www.linuxworldindia.org/) as summer intern in <b>MLOPS</b>.\
 📫 How to reach me: Mail me : <a href="abhikesare9@gmail.com">Abhishek Kesare</a>
 
 
